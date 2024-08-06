@@ -18,7 +18,7 @@ _🦌 网页小游戏 🥛_
 |
 [鹿乃b站](https://space.bilibili.com/316381099)
 |
-[Github Pages](https://small-gift.github.io/EatKano/)
+[Github Pages](https://small-gift.github.io/EatKun/)
 
 ## 使用方法
 
