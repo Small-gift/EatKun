@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://small-gift.github.io/EatKano"><img src="https://github.com/Small-gift/EatKano/blob/main/static/image/ClickAfter.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://small-gift.github.io/EatKun"><img src="https://github.com/Small-gift/EatKun/blob/main/static/image/ClickAfter.png?raw=true" width="100" height="100" alt="EatKano"></a>
 </p>
 <div align="center">
 
